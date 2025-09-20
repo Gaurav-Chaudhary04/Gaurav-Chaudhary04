@@ -13,7 +13,7 @@
 <br><br>
 🌱 I’m exploring the fields of **Artificial Intelligence, Machine Learning, and Deep Learning**.
 <br><br>
-👨‍💻 All of my projects are available at <a href="https://github.com/Gaurav-Chaudhary04">https://github.com/Gaurav-Chaudhary04</a>
+👨‍💻 All of my projects are available at <a href="https://github.com/Gaurav-Chaudhary04">Github</a>
 <br><br>
 💬 Ask me about **AI, ML, Python, and DSA**.
 <br><br>
