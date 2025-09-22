@@ -50,6 +50,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gaurav-Chaudhary04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Gaurav-Chaudhary04/Gaurav-Chaudhary04/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
