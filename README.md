@@ -43,23 +43,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Chaudhary04&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Chaudhary04&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Chaudhary04&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Chaudhary04&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Chaudhary04&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Chaudhary04&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gaurav-Chaudhary04&theme=radical&no-frame=true&margin-w=10" />
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-Chaudhary04&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurav-Chaudhary04&theme=github_dark" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurav-Chaudhary04&theme=github_dark" />
+</p>
 
 ---
 
