@@ -26,25 +26,27 @@
 ---
 
 ## 🌐 Socials:
-<p align="center">
-  <span style="display:inline-block;">
-    <a href="https://www.instagram.com/chaudhary_gaurav_147/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-    </a>
-  </span>
-
-  <span style="display:inline-block; margin: 0 15px;">
-    <a href="https://www.linkedin.com/in/gaurav-chaudhary-profile" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-    </a>
-  </span>
-
-  <span style="display:inline-block;">
-    <a href="https://leetcode.com/u/chaudharygaurav147/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-    </a>
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/chaudhary_gaurav_147/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="https://www.linkedin.com/in/gaurav-chaudhary-profile" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="https://leetcode.com/u/chaudharygaurav147/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
