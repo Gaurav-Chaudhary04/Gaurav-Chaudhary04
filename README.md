@@ -26,10 +26,16 @@
 ---
 
 ## 🌐 Socials:
-<p align="center">
-<a href="https://www.instagram.com/chaudhary_gaurav_147/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gaurav Chaudhary's Instagram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gaurav-chaudhary-profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gaurav Chaudhary's LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/chaudharygaurav147/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Gaurav Chaudhary's LeetCode" height="30" width="40" /></a>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.instagram.com/chaudhary_gaurav_147/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/gaurav-chaudhary-profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/chaudharygaurav147/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
