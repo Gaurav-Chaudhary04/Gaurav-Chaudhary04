@@ -59,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Chaudhary04&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Chaudhary04&theme=tokyonight" />
+  <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Chaudhary04&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="48%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Chaudhary04&theme=tokyonight" />
 </p>
 
 <p align="center">
